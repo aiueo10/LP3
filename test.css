@@ -52,14 +52,13 @@ p{
 }
 
 .text {
-  margin: auto;
+  margin: 0 auto;
   width: 80%;
   line-height: 2em;
- 
+  text-align: center;
 }
 
-
-.text p img {
+.text img {
   width: 10em;
   height: 10em;
   margin: 0 auto;
